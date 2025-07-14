@@ -1,6 +1,6 @@
 # Bianca Ribeiro de Souza
 
-🔬 Postdoctoral Research Scientist at UBC (Department of Obstetrics & Gynaecology, OVCARE), Vancouver, Canada.
+🔬 Postdoctoral Research Scientist at UBC (Department of Obstetrics & Gynaecology), Vancouver, Canada.
 
 🧬 Researching gynecological cancer, histopathology, immunology, and biomarker discovery in the [Endometriosis Oncogenomics and Pathology Research Lab
 ](https://www.edgeresearch.ca/bianca).
