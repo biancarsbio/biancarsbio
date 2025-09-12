@@ -2,7 +2,7 @@
 
 🔬 Postdoctoral Research Scientist at UBC (Department of Obstetrics & Gynaecology), Vancouver, Canada.
 
-🧬 Researching gynecological cancer, histopathology, immunology, and biomarker discovery in the [Endometriosis Oncogenomics and Pathology Research Lab
+🧬 Translating molecular signatures into actionable insights to improve patient decision-making in gynecological cancers at the [Endometriosis Oncogenomics and Pathology Research Lab
 ](https://www.edgeresearch.ca/bianca).
 
 🎓 PhD in Molecular & Morphofunctional Biology (UNICAMP), preclinical testing of nanoimmunotherapy for urogenital cancers & immune response profiling in clinical trial.
