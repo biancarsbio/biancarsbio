@@ -11,8 +11,8 @@ PhD research partially conducted at UBC.
 
 🔍 MSc in Biosciences (UNESP), with a focus on in vivo Pharmacology and Histology.
 
-📚 BSc + Teaching Degree in Biology (UNESP). Undergraduate thesis on in vivo Reproductive Toxicology.
+📚 BSc + Bachelor of Education in Biological Sciences (UNESP). Undergraduate thesis on in vivo Reproductive Toxicology.
 
-🌎 Passionate about translational research and improving women's health.
+🌎 Passionate about science communication, translational research, and improving women's health.
 
 If you use TMA-based IHC, please check out the new [TMAtools](https://edgeresearch-ca.github.io/TMAtools/) R package!
