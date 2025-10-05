@@ -13,6 +13,6 @@ Preclinical testing of nanoimmunotherapy for urogenital cancers & immune respons
 
 - **BSc + Bachelor of Education in Biological Sciences (UNESP)**. Undergraduate thesis on in vivo Reproductive Toxicology.
 
-<span style="color:purple"> Passionate about science communication, translational research, and improving women's health.</span>
+Passionate about science communication, translational research, and improving women's health.</span>
 
 _If you use TMA-based IHC, please check out the new [TMAtools](https://edgeresearch-ca.github.io/TMAtools/) R package!_
