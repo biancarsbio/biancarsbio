@@ -4,7 +4,7 @@
 
 PDF version [here](files/poster-ccocr-2024.pdf).
 
-<img src="files/poster-ccocr-2024.jpg" width=75% height=75%>
+<img src="files/poster-ccocr-2024.jpg">
 
 
 ## Invited talk at Gynaecological Cancer Initiative (GCI) trainee day
