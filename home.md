@@ -7,7 +7,7 @@ PDF version [here](files/poster-ccocr-2024.pdf).
 <img src="files/poster-ccocr-2024.jpg">
 
 
-## Invited talk at Gynaecological Cancer Initiative (GCI) trainee day
+## Invited talk at Gynecologic Cancer Initiative (GCI) trainee day
 
 Recording available on <a href="https://youtu.be/cl7Lp7u4CJ8?t=1661" target="_blank">YouTube</a>.
 
